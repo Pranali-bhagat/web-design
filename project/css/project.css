@@ -1,0 +1,25 @@
+body{
+    width: 100%; background-image:radial-gradient(orange,white);}
+
+.header{
+    background-color:grey; margin: 20px; padding: 20px;
+}
+
+
+.right{
+    text-align: center; color:darkblue;
+    font-style: italic;
+}
+.right h4{color: red;}
+
+.navi1{ color: blueviolet;}
+.strip{
+    background-color: blue; color:yellow; font-family: cursive; font-size:large; margin: top 10px;;
+}
+.desk{
+    background-color: rgb(51, 139, 139); color:azure;
+}
+.desk h1{font-style: italic; text-align: center; text-shadow: 0ch;}
+.desk p{ margin: 10px;}
+.contain{ text-align: center; color: aquamarine; background-color: rgb(3, 80, 80);}
+.footer{ background-image: radial-gradient(blue,white);}
